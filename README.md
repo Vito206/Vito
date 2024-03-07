@@ -1,5 +1,5 @@
 # Vito
 👋 Hi, I’m @vito206 
-📚 I’m currently learning Python and Machine Learning. 
+📚 I’m currently a student at the University of Washington. 
 👀 I’m now working towards earning an internship in Data Analytics. 
 📫 How to reach me: vitomk206@gmail.com
